@@ -1,4 +1,4 @@
-# 01. Aprender lógica de programación
+# Aprender lógica de programación
 
 1. [Curso] Lógica de programación: Primeros pasos
 2. [Curso] Lógica de programación: Conceptos primordiales
